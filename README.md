@@ -7,7 +7,11 @@ everything in this repository except for the dependencies is mine and my team's 
 
 # Files Description
 
-1- Run.py: Runs a simulation for the algorithm and shows the real path and estimated path of movement
-2- rogueAP.py: Simulates the movement of the transmitter and stores the movement in a file
-3- server.py: A local server that receives the RSSI readings from the 4 receivers and runs the algorithm to estimate the path
-4- results.py: Refine the estimated path and produce a plot showing the real and estimated path
+1- Run.py: Runs a simulation for the algorithm and shows the real path and estimated path of movement.
+
+2- rogueAP.py: Simulates the movement of the transmitter and stores the movement in a file.
+
+3- server.py: A local server that receives the RSSI readings from the 4 receivers and runs the algorithm to estimate the path.
+
+4- results.py: Refine the estimated path and produce a plot showing the real and estimated path.
+
